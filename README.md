@@ -32,6 +32,26 @@
 </div>
 
 ###
+  
+</div>
+
+###
+
+<p align="left">Devops</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+</div>
+
+###
+
+</div>
+
+###
 
 <p align="left">Game Dev</p>
 
